@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+.btn{
+  background-color: #245cd1;
+  background-image: linear-gradient(90deg,#4c80f1,#245cd1);
+}
+
+.my-name{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+}
+.job-title{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+}
+/* =====================Project================= */
+.project h2,h3{
+  font-family: 'Ubuntu', sans-serif; 
+ }
